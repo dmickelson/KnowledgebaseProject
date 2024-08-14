@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project outlines the development of a cloud-based, scalable AI-driven knowledge base platform. The platform enables team members to ask questions that span multiple documents and leverage the context of prompt/chat history for extended conversations. The architectural design focuses on being interactive, serverless, modular, and scalable.
+This project outlines the development of a cloud-based, serverless, microservice, scalable architected AI-driven knowledge base platform. The platform enables team members to ask questions that span multiple documents and leverage the context of prompt/chat history for extended conversations. The architectural design focuses on being interactive, serverless, modular, and scalable.
 
 ## Goal
 
